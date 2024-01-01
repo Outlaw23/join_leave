@@ -1,0 +1,3 @@
+org\mineacademy\lynx\JoinLeave.class
+org\mineacademy\lynx\api\CowExplodeEvent.class
+org\mineacademy\lynx\join_leave_event\PlayerListener.class
